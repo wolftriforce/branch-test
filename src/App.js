@@ -9,14 +9,6 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <div>
-          <div>
-            <img src="" alt="" />
-          </div>
-          <div>
-            <img src="" alt="" />
-          </div>
-        </div>
       </header>
     </div>
 
